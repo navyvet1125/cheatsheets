@@ -7,6 +7,6 @@ Checkout: views files from previous commit snapshot without changing current com
 Diff: Views differences made in file(s) between commits.
 Merge: Merges all branches into the current commit.
 Log:  View log of all commits made.
-Push: *Coming Soon!*
-Pull: *Coming Soon!*
-Clone: *Coming Soon!*
+Push: COPY FROM YOUR LOCAL REPO INTO A REMOTE ONE
+Pull: MERGE CHANGES SOMEONE ELSE MADE INTO YOUR LOCAL REPO
+Clone: COPY FROM A REMOTE REPO INTO YOUR LOCAL ONE
